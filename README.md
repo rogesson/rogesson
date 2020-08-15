@@ -3,7 +3,7 @@
 ### I'm a Senior Software Developer living in São Paulo, Brazil.
 
 - 🔭 I’m currently working on **Locaweb**
-- 🌱 I’m currently learning **GO Lang**
+- 🌱 I’m currently learning **GOLang**
 - 👯 I’m looking to collaborate on **Cryptocurrency***
 - 🤔 I’m looking for help with **Game Development**
 - 💬 Ask me about **Game Development and Web Hosting**
