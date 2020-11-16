@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Locaweb**
 - 🌱 I’m currently learning **GOLang**
-- 👯 I’m looking to collaborate on **Web Hosting***
+- 👯 I’m looking to collaborate on **Web Hosting**
 - 💬 Ask me about **Game Development and Web Hosting**
 - 📫 How to reach me: **rogessonb@gmail.com**
 
